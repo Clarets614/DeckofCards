@@ -1,0 +1,14 @@
+﻿@model NewDeck
+
+@{
+    string generatedDeck = Model.deck_id;
+    <p>
+    Deck id: @generatedDeck
+    </p>
+}
+
+<form asp-method="Post" asp-action="ViewCards" asp-route-id="@generatedDeck">
+    < type="hidden" formmethod="post"</>
+    <button type="submit">Draw 5 Cards</button>
+
+</form>

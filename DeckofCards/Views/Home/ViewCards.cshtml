@@ -1,0 +1,29 @@
+﻿@model DrawCardModel.Card[]
+
+@{
+
+
+
+    <h2>Your Cards</h2>
+    <table>
+        <tr>
+        <th>Card</th>
+        <th>Image</th>
+        </tr>
+        @foreach(Card c in Model)
+        {
+            <tr>
+            <p>@c.value @c.suit</p>
+            <td> 
+                <img src="@c.image"/>
+            </td>
+            
+            </tr>
+
+
+
+        }
+
+    </table>
+
+}

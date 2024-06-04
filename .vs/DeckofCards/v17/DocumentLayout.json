@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\views\\home\\viewcards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\views\\home\\viewcards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\views\\home\\getdeck.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\views\\home\\getdeck.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\models\\drawcarddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\models\\drawcarddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\models\\drawcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\models\\drawcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\models\\newdeckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\models\\newdeckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\models\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\models\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\models\\newdeckdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\models\\newdeckdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|c:\\users\\cstock\\source\\repos\\deckofcards\\deckofcards\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{404769A6-6E9E-4ACE-BBA6-14299D0CB22D}|DeckofCards\\DeckofCards.csproj|solutionrelative:deckofcards\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewCards.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Views\\Home\\ViewCards.cshtml",
+              "RelativeDocumentMoniker": "DeckofCards\\Views\\Home\\ViewCards.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Views\\Home\\ViewCards.cshtml",
+              "RelativeToolTip": "DeckofCards\\Views\\Home\\ViewCards.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T03:08:32.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawCardDAL.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\DrawCardDAL.cs",
+              "RelativeDocumentMoniker": "DeckofCards\\Models\\DrawCardDAL.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\DrawCardDAL.cs",
+              "RelativeToolTip": "DeckofCards\\Models\\DrawCardDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:10:08.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DeckofCards\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DeckofCards\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:58:57.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDeck.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Views\\Home\\GetDeck.cshtml",
+              "RelativeDocumentMoniker": "DeckofCards\\Views\\Home\\GetDeck.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Views\\Home\\GetDeck.cshtml",
+              "RelativeToolTip": "DeckofCards\\Views\\Home\\GetDeck.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T19:50:42.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrawCardModel.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\DrawCardModel.cs",
+              "RelativeDocumentMoniker": "DeckofCards\\Models\\DrawCardModel.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\DrawCardModel.cs",
+              "RelativeToolTip": "DeckofCards\\Models\\DrawCardModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:48:43.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewDeckModel.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\NewDeckModel.cs",
+              "RelativeDocumentMoniker": "DeckofCards\\Models\\NewDeckModel.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\NewDeckModel.cs",
+              "RelativeToolTip": "DeckofCards\\Models\\NewDeckModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:39:02.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "secret.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\secret.cs",
+              "RelativeDocumentMoniker": "DeckofCards\\Models\\secret.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\secret.cs",
+              "RelativeToolTip": "DeckofCards\\Models\\secret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:13:30.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewDeckDAL.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\NewDeckDAL.cs",
+              "RelativeDocumentMoniker": "DeckofCards\\Models\\NewDeckDAL.cs",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Models\\NewDeckDAL.cs",
+              "RelativeToolTip": "DeckofCards\\Models\\NewDeckDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:39:46.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DeckofCards\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\DeckofCards\\DeckofCards\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DeckofCards\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T20:05:59.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
