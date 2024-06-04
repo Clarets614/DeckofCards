@@ -1,29 +1,15 @@
-﻿@model DrawCardModel.Card[]
+﻿@model DrawCardModel
+
+<h1>Your Hand of Cards</h1>
+<p>Cards remaining in deck: @Model.remaining</p>
+
 
 @{
 
 
-
-    <h2>Your Cards</h2>
-    <table>
-        <tr>
-        <th>Card</th>
-        <th>Image</th>
-        </tr>
-        @foreach(Card c in Model)
+        @foreach(Card c in Model.cards)
         {
-            <tr>
-            <p>@c.value @c.suit</p>
-            <td> 
-                <img src="@c.image"/>
-            </td>
-            
-            </tr>
-
-
-
+            <p>@c.value @c.suit</p><img src="@c.image"/>
         }
-
-    </table>
 
 }

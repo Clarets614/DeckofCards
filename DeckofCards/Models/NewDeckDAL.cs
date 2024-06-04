@@ -26,5 +26,14 @@ namespace DeckofCards.Models
             NewDeck result = JsonConvert.DeserializeObject<NewDeck>(JSON);
             return result;
         }
+
+        public static void Shuffle()
+        {
+            string url = "https://deckofcardsapi.com/api/deck/d8kaq0l4c52m/shuffle/";
+            HttpWebRequest request = WebRequest.CreateHttp(url);
+            HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+
+
+        }
     }
 }

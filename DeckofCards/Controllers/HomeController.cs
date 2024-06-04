@@ -22,12 +22,17 @@ namespace DeckofCards.Controllers
         public IActionResult GetDeck()
         {
             NewDeck result = NewDeckDAL.NewDeck();
+            if (result.remaining == 0) 
+            {
+                NewDeckDAL.Shuffle();
+                    }
             return View(result);
         }
 
         [HttpPost]
         public IActionResult ViewCards(string deckId)
         {
+            List<Card> cards = new List<Card>();
             DrawCardModel drawresult = DrawCardDAL.GetCard(deckId);
             return View(drawresult);
         }

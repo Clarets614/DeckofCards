@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\cstock\source\repos\DeckofCards\DeckofCards
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/cstock/source/repos/DeckofCards/DeckofCards/Views/Home/DisplayCards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwbGF5Q2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cstock/source/repos/DeckofCards/DeckofCards/Views/Home/GetDeck.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXREZWNrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
